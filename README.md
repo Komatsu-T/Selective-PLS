@@ -1,1 +1,1 @@
-# Selective PLS
+# selective PLS
