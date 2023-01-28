@@ -2,10 +2,7 @@
 
 ### Overview
 selectivePLS is a Python package for partial least squares (PLS) regression models. This package provides functions as follows:
-- George Washington
-* John Adams
-+ Thomas Jefferson
-
+* AAA
 
 ### Installation
 ```python
