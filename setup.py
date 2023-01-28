@@ -12,7 +12,7 @@ setup(
     description='',
     author='Komatsu-T',
     url='',
-    packages=find_packages(),,
+    packages=find_packages(),
     classifiers=[
             "Programming Language :: Python :: 3.6",
             "License :: OSI Approved :: MIT License",
