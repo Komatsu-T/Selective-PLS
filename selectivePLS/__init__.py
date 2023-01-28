@@ -1,2 +1,2 @@
 from .PLSModel import NormalPLS
-from .PLSModel import SelectivePLS
+from .PLSModel import selectivePLS
