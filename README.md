@@ -1,7 +1,7 @@
 # selectivePLS
 
 ## Overview
-selectivePLS is a Python package for partial least squares (PLS) regression. This package provides functions as follows:
+selectivePLS is a Python package for partial least squares (PLS) regression models. This package provides functions as follows:
 
 
 ## Installation
