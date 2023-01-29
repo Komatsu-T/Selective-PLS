@@ -72,6 +72,7 @@ $h$: lagrange multiplier
 4. Do general PLS Algorithm using $\boldsymbol{y_L}$ and $\boldsymbol{X_L}$ and get a latent features matrix $\boldsymbol{T}$
 5. Build a linear model $\boldsymbol{y} = (\boldsymbol{T}|\boldsymbol{X_R})\boldsymbol{w} + \boldsymbol{\epsilon}$ and estimate unkwon parameter $\boldsymbol{w}$
 
-
+## License
+The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
 
 
