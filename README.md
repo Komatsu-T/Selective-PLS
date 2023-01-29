@@ -13,3 +13,13 @@ selectivePLS is a Python package for partial least squares (PLS) regression mode
 ```python
 pip install git+https://github.com/Komatsu-T/selective-PLS.git
 ```
+
+### Dependency
+```python
+numpy
+pandas
+matplotlib
+scikit-learn
+```
+
+
