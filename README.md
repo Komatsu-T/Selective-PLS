@@ -63,8 +63,8 @@ $r$: no. of latent features
 
 ### selective PLS Algorithm
 1. Split $\boldsymbol{X}$ into two block matrix $\boldsymbol{X} = (\boldsymbol{X_L}|\boldsymbol{X_R})$  
-   $\boldsymbol{X}$ is $n\times k$ design matrix, 
-   $\boldsymbol{X_L}$ is $n\times d$ matrix that transformed to latent features, 
+   $\boldsymbol{X}$ is $n\times k$ design matrix,  
+   $\boldsymbol{X_L}$ is $n\times d$ matrix that transformed to latent features,   
 
 
 
