@@ -40,7 +40,8 @@ $\boldsymbol{q}$: loadings of y
 $\boldsymbol{E}$: residuals of X  
 $\boldsymbol{e}$: residuals of y  
 
-
+### General PLS Algorithm
+$\boldsymbol{X_0}$
 
 
 
