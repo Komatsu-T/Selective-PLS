@@ -27,9 +27,9 @@ scikit-learn
 
 ## Algorithm
 ### PLS Model
-$\boldsymbol{X} = TP + E$  
-$T = XW$  
-$y = Tq + e$  
+$\boldsymbol{X} = \boldsymbol{TP} + \boldsymbol{E}$  
+$\boldsymbol{T} = \boldsymbol{XW}$  
+$\boldsymbol{y} = \boldsymbol{Tq} + \boldsymbol{e}$  
 
 
 
