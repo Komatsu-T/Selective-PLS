@@ -47,8 +47,7 @@ $\boldsymbol{e}$: residuals of y
 4. $\boldsymbol{p_0} = \boldsymbol{0}$: $(d \times 1)$  
 5. $q_0 = 0$: scalar  
 6. **for** $i=1$ to $r$ **do**  
-    aaaa
-
+7.      $\boldsymbol{X_i} \leftarrow $
 
 
 
