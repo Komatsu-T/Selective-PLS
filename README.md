@@ -7,7 +7,7 @@ selectivePLS is a Python package for partial least squares (PLS) regression mode
 * Visualize projection vectors used to transform inputted features
 * **Build PLS regression models that transform only user-selected features to latent features**
 
-![overview](https://user-images.githubusercontent.com/79096203/215278494-ff526a1a-780e-4364-b1f1-6482da080839.png)
+![overview](https://user-images.githubusercontent.com/79096203/215299395-4725242b-1e22-4385-a43a-d60a5ae9783c.png)
 
 ### Installation
 ```python
