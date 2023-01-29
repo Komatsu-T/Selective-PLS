@@ -39,7 +39,8 @@ $\boldsymbol{P}$: loadings of X
 $\boldsymbol{q}$: loadings of y  
 $\boldsymbol{E}$: residuals of X  
 $\boldsymbol{e}$: residuals of y  
-$\boldsymbol{W}$: projection matrix used to transform X
+
+
 
 
 
