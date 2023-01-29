@@ -43,7 +43,7 @@ $\boldsymbol{e}$: residuals of y
 ### General PLS Algorithm
 $\boldsymbol{X_0} = \boldsymbol{X}$  
 $\boldsymbol{y_0} = \boldsymbol{y}$  
-$\boldsymbol{t_0} = \boldsymbol{0}$: (n \times 1)  
+$\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
 
 
 
