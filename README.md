@@ -31,7 +31,7 @@ $\boldsymbol{X} = \boldsymbol{TP} + \boldsymbol{E}$
 $\boldsymbol{T} = \boldsymbol{XW}$  
 $\boldsymbol{y} = \boldsymbol{Tq} + \boldsymbol{e}$  
 
-$\boldsymbol{X}: design matrix  
+$\boldsymbol{X}$: design matrix  
 $\boldsymbol{y}$: target vector  
 $\boldsymbol{T}$: matrix of latent features  
 $\boldsymbol{W}$: projection matrix used to transform X  
