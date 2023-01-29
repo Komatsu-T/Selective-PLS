@@ -30,6 +30,7 @@ scikit-learn
 $\boldsymbol{X} = \boldsymbol{TP} + \boldsymbol{E}$  
 $\boldsymbol{T} = \boldsymbol{XW}$  
 $\boldsymbol{y} = \boldsymbol{Tq} + \boldsymbol{e}$  
+
 X: design matrix  
 y: target vector  
 T: matrix of latent features  
