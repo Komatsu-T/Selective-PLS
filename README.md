@@ -62,7 +62,7 @@ $r$: no. of latent features
 16. $\boldsymbol{q} = (q_1,\ldots,q_r)^T$
 
 ### selective PLS Algorithm
-1. Split $\boldsymbol{X}$ into two block matrix $\boldsymbol{X} = (\boldsymbol{X_L}|\boldsymbol{X_R})$
+1. Split $\boldsymbol{X}$ into two block matrix $\boldsymbol{X} = (\boldsymbol{X_L}|\boldsymbol{X_R})$  XDS
 
 
 
