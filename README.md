@@ -1,6 +1,6 @@
 # selectivePLS
 
-### Overview
+## Overview
 selectivePLS is a Python package for partial least squares (PLS) regression models. This package provides functions as follows:
 * Build general PLS regression models like sklearn
 * Calculate Variable Importance in Projection (VIP) values
@@ -9,24 +9,24 @@ selectivePLS is a Python package for partial least squares (PLS) regression mode
 
 ![overview](https://user-images.githubusercontent.com/79096203/215299395-4725242b-1e22-4385-a43a-d60a5ae9783c.png)
 
-### Installation
+## Installation
 ```python
 pip install git+https://github.com/Komatsu-T/selective-PLS.git
 ```
 
-### Dependency
+## Dependency
 ```python
 numpy
 pandas
 matplotlib
 scikit-learn
 ```
-### Usage
+## Usage
 * See [Sample01.ipynb](https://github.com/Komatsu-T/selective-PLS/blob/main/Sample01.ipynb) for general PLS regression models
 * See [Sample02.ipynb](https://github.com/Komatsu-T/selective-PLS/blob/main/Sample02.ipynb) for selective PLS regression models
 
-### Algorithm
-#### PLS Model
+## Algorithm
+### PLS Model
 $X = TP + E$
 
 
