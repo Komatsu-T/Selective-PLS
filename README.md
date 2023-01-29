@@ -27,7 +27,7 @@ scikit-learn
 
 ## Algorithm
 ### PLS Model
-$**X = TP + E**$  
+$X = TP + E$  
 $T = XW$  
 $y = Tq + e$  
 
