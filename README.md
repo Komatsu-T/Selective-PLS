@@ -26,8 +26,9 @@ scikit-learn
 * See [Sample02.ipynb](https://github.com/Komatsu-T/selective-PLS/blob/main/Sample02.ipynb) for selective PLS regression models
 
 ### Algorithm
+#### PLS Model
+$X = TP + E$
 
-#### AAA1
 
 
 
