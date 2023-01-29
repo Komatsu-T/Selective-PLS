@@ -31,15 +31,15 @@ $\boldsymbol{X} = \boldsymbol{TP} + \boldsymbol{E}$
 $\boldsymbol{T} = \boldsymbol{XW}$  
 $\boldsymbol{y} = \boldsymbol{Tq} + \boldsymbol{e}$  
 
-X: design matrix  
-y: target vector  
-T: matrix of latent features  
-W: projection matrix used to transform X  
-P: loadings of X  
-q: loadings of y  
-E: residuals of X  
-e: residuals of y  
-W: projection matrix used to transform X
+$X$: design matrix  
+$y$: target vector  
+$T$: matrix of latent features  
+$W$: projection matrix used to transform X  
+$P$: loadings of X  
+$q$: loadings of y  
+$E$: residuals of X  
+$e$: residuals of y  
+$W$: projection matrix used to transform X
 
 
 
