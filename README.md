@@ -66,7 +66,8 @@ $r$: no. of latent features
    $\boldsymbol{X}$ is $n\times k$ design matrix,  
    $\boldsymbol{X_L}$ is $n\times d$ matrix that transformed to latent features,  
    $\boldsymbol{X_R}$ is $n\times (k-d)$ matrix that **not** transformed to latent features.
-2. aaa
+2. Estimation linear model $\boldsymbol{y} = \boldsymbol{X_R}\boldsymbol{w_R}$
+3. 
 
 
 
