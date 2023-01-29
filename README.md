@@ -53,7 +53,7 @@ $\boldsymbol{e}$: residuals of y
 10. $\hspace{20pt}\boldsymbol{t_i}\leftarrow \boldsymbol{X_i}\boldsymbol{w_i}$
 11. $\hspace{20pt}\boldsymbol{p_i}\leftarrow \mathop{\rm argmin}\limits_{\boldsymbol{p_i}} ||\boldsymbol{X_i}-\boldsymbol{t_i}\boldsymbol{p_i}^{T}||^2$
 12. $\hspace{20pt}q_i\leftarrow \mathop{\rm argmin}\limits_{q_i} ||\boldsymbol{y_i}-\boldsymbol{t_i}q_i||^2$
-13. $\boldsymbol{W} = (\boldsymbol{w_i},\ldot,)$
+13. $\boldsymbol{W} = (\boldsymbol{w_i},\ldots,)$
 
 
 
