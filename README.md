@@ -41,9 +41,9 @@ $\boldsymbol{E}$: residuals of X
 $\boldsymbol{e}$: residuals of y  
 
 ### General PLS Algorithm
-$n$: sample size
-$d$: no. of input features
-$r$: no. of latent features
+$n$: sample size  
+$d$: no. of input features  
+$r$: no. of latent features  
 1. $\boldsymbol{X_0} = \boldsymbol{X}$: $(n \times d)$    
 2. $\boldsymbol{y_0} = \boldsymbol{y}$: $(n \times 1)$    
 3. $\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
