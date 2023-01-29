@@ -46,7 +46,8 @@ $\boldsymbol{y_0} = \boldsymbol{y}$: $(n \times 1)$
 $\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
 $\boldsymbol{p_0} = \boldsymbol{0}$: $(d \times 1)$  
 $q_0 = 0$: scalar  
-
+**for** $i=1$ to $r$ **do**  
+    aaaa
 
 
 
