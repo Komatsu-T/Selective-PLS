@@ -51,6 +51,7 @@ $\boldsymbol{e}$: residuals of y
 8. $\hspace{20pt}\boldsymbol{y_i}\leftarrow \boldsymbol{y_{i-1}} - (q_{i-1}\boldsymbol{t_{i-1}})$  
 9. $\hspace{20pt}\boldsymbol{w_i}\leftarrow \mathop{\rm argmax}\limits_{\boldsymbol{w_i}} \boldsymbol{y_i}^{T}\boldsymbol{X_i}\boldsymbol{w_i}-k(||\boldsymbol{w_i}||^2-1)$  
 10. $\hspace{20pt}\boldsymbol{t_i}\leftarrow \boldsymbol{X_i}\boldsymbol{w_i}$
+11. $\hspace{20pt}\boldsymbol{p_i}\leftarrow \mathop{\rm argmin}\limits_{\boldsymbol{p_i}} \boldsymbol{X_i}-\boldsymbol{t_i}\boldsymbol{p_i}^{T}$
 
 
 
