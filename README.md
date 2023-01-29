@@ -56,7 +56,7 @@ $\boldsymbol{e}$: residuals of y
 13. $\boldsymbol{W} = (\boldsymbol{w_1},\ldots,\boldsymbol{w_r})$
 14. $\boldsymbol{T} = (\boldsymbol{t_1},\ldots,\boldsymbol{t_r})$
 15. $\boldsymbol{P} = (\boldsymbol{p_1},\ldots,\boldsymbol{p_r})$
-16. $\boldsymbol{q} = (q_1,\ldots,q_r)$
+16. $\boldsymbol{q} = (q_1,\ldots,q_r)^T$
 
 
 
