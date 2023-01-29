@@ -47,7 +47,9 @@ $\boldsymbol{e}$: residuals of y
 4. $\boldsymbol{p_0} = \boldsymbol{0}$: $(d \times 1)$  
 5. $q_0 = 0$: scalar  
 6. **for** $i=1$ to $r$ **do**  
-7. $\hspace{20pt}\boldsymbol{X_i}\leftarrow \boldsymbol{X_{i-1}} - (\boldsymbol{t_{i-1}}\boldsymbol{p_{i-1}}^{T})$
+7. $\hspace{20pt}\boldsymbol{X_i}\leftarrow \boldsymbol{X_{i-1}} - (\boldsymbol{t_{i-1}}\boldsymbol{p_{i-1}}^{T})$  
+8. $\hspace{20pt}\boldsymbol{y_i}\leftarrow \boldsymbol{y_{i-1}} - (q_{i-1}\boldsymbol{t_{i-1}})$  
+9. 
 
 
 
