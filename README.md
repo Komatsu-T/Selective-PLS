@@ -41,12 +41,12 @@ $\boldsymbol{E}$: residuals of X
 $\boldsymbol{e}$: residuals of y  
 
 ### General PLS Algorithm
-$\boldsymbol{X_0} = \boldsymbol{X}$: $(n \times d)$    
-$\boldsymbol{y_0} = \boldsymbol{y}$: $(n \times 1)$    
-$\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
-$\boldsymbol{p_0} = \boldsymbol{0}$: $(d \times 1)$  
-$q_0 = 0$: scalar  
-**for** $i=1$ to $r$ **do**  
+1. $\boldsymbol{X_0} = \boldsymbol{X}$: $(n \times d)$    
+2. $\boldsymbol{y_0} = \boldsymbol{y}$: $(n \times 1)$    
+3. $\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
+4. $\boldsymbol{p_0} = \boldsymbol{0}$: $(d \times 1)$  
+5. $q_0 = 0$: scalar  
+6. **for** $i=1$ to $r$ **do**  
     aaaa
 
 
