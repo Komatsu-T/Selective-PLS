@@ -22,4 +22,5 @@ matplotlib
 scikit-learn
 ```
 ### Usage
-
+* See Sample01.ipynb for general PLS regression models
+* See Sample01.ipynb for selective PLS regression models
