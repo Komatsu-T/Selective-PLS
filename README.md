@@ -41,8 +41,8 @@ $\boldsymbol{E}$: residuals of X
 $\boldsymbol{e}$: residuals of y  
 
 ### General PLS Algorithm
-$\boldsymbol{X_0} = \boldsymbol{X}$  
-$\boldsymbol{y_0} = \boldsymbol{y}$  
+$\boldsymbol{X_0} = \boldsymbol{X}$: $(n \times d)$    
+$\boldsymbol{y_0} = \boldsymbol{y}$: $(n \times 1)$    
 $\boldsymbol{t_0} = \boldsymbol{0}$: $(n \times 1)$  
 
 
