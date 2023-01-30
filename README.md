@@ -70,7 +70,7 @@ $h$: lagrange multiplier
 2. Estimate linear model $\boldsymbol{y} = \boldsymbol{X_R}\boldsymbol{w_R} + \boldsymbol{\epsilon}$ and calculate predicted values $\hat{\boldsymbol{y_R}} = \boldsymbol{X_R}\boldsymbol{\hat{w_R}}$
 3. Calculate $\boldsymbol{y_L} = \boldsymbol{y}-\hat{\boldsymbol{y_R}}$ for remove $\boldsymbol{X_R}$ effects from the target variable $\boldsymbol{y}$
 4. Get a latent features matrix $\boldsymbol{T}$ by the general PLS Algorithm using $\boldsymbol{y_L}$ and $\boldsymbol{X_L}$ 
-5. Build a linear model $\boldsymbol{y} = (\boldsymbol{T}|\boldsymbol{X_R})\boldsymbol{w} + \boldsymbol{\epsilon}$ and estimate unkwon parameter $\boldsymbol{w}$
+5. Build a linear model $\boldsymbol{y} = (\boldsymbol{T}|\boldsymbol{X_R})\boldsymbol{w} + \boldsymbol{\epsilon}$ and estimate unkwon parameters $\boldsymbol{w}$
 
 ## License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
