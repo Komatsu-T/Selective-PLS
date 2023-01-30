@@ -63,7 +63,7 @@ $h$: lagrange multiplier
 16. $\boldsymbol{q} = (q_1,\ldots,q_r)^T$
 
 ### selective PLS Algorithm
-1. Split $\boldsymbol{X}$ into two block matrix $\boldsymbol{X} = (\boldsymbol{X_L}|\boldsymbol{X_R})$  
+1. Split $\boldsymbol{X}$ into block matrix $\boldsymbol{X} = (\boldsymbol{X_L}|\boldsymbol{X_R})$  
     $\boldsymbol{X}$ is $n\times k$ design matrix,  
     $\boldsymbol{X_L}$ is $n\times d$ matrix that transformed to latent features,  
     $\boldsymbol{X_R}$ is $n\times (k-d)$ matrix that **not** transformed to latent features.
