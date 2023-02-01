@@ -98,6 +98,7 @@ class selectivePLS:
         selective_PLS_model = RidgeCV(alphas=np.linspace(alpha_from, alpha_to, alpha_num), cv=cv)
         selective_PLS_model.fit(np.hstack([X_latent, X_R]), y)
         self.selective_PLS_model = selective_PLS_model
+        print(f"Estimated selectivePLS model's L2 regularization parameter is {selective_PLS_model.alpha_:.3f}. Parameter search range is {alpha_from:.2f}-{alpha_to:.2f}")
 
     def predict(self, X):
         X_L = X[:, :self.latent_to]
